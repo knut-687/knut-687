@@ -10,7 +10,7 @@
 </ul>
 <h2>Tools for project zomboid 🧟‍♂️ </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,java,blender" />
+    <img src="https://skillicons.dev/icons?i=lua,java,blender,docker" />
   </a>
 <h2>Other languages and Tools</h2>
   <a href="https://skillicons.dev">
